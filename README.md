@@ -5,7 +5,7 @@ I have been working on many startups as a Full-Stack Developer, adopting new tec
 
 
 
-### :blush: :+1: Tech Stack that i use today:
+### :blush: :+1: Tech Stack that i use today
 | Topics                           |   Technologies                                                                              |
 |--------------------------------- | ------------------------------------------------------------------------------------------- |
 | :scroll: *Languajes*             |   JavaScript, NodeJS, Python, TypeScript                                                    |
@@ -18,7 +18,7 @@ I have been working on many startups as a Full-Stack Developer, adopting new tec
 | :vertical_traffic_light: *CI/CD* |   Github Actions, Jenkins, Gitlab CI, Cloud Build (GCP)                                     |
 
 
-### :wave: :cry: Tech Stack that i have used to use:
+### :wave: :cry: Tech Stack that i have used to use
 | Topics                           |   Technologies                                                                              |
 |--------------------------------- | ------------------------------------------------------------------------------------------- |
 | :scroll: *Languajes*             |   Java, PHP, Ruby, CoffeeScript (:skull:)                                                   |
@@ -31,7 +31,7 @@ I have been working on many startups as a Full-Stack Developer, adopting new tec
 | :vertical_traffic_light: *CI/CD* |   Nothing (Really sad story)                                                                |
 
 
-### :heart_eyes: :point_right: Tech Stack that i wanna use tomorrow:
+### :heart_eyes: :point_right: Tech Stack that i wanna use tomorrow
 | Topics                           |   Technologies                                                                              |
 |--------------------------------- | ------------------------------------------------------------------------------------------- |
 | :scroll: *Languajes*             |   Go, Python, NodeJS, JavaScript, TypeScript                                                |
