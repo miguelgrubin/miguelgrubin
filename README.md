@@ -36,10 +36,10 @@ I have been working on many startups as a Full-Stack Developer, adopting new tec
 |--------------------------------- | -------------------------------------------------------------------------------------------------------------- |
 | :scroll: *Languajes*             |   [Go], [Python], [NodeJS], [JavaScript], [TypeScript]                                                         |
 | :wrench: *Frameworks*            |   [Gin Gonic], [gRPC], [Nest], [Flask], [FastAPI], [React], [Vue]                                              |
-| :computer: *Platforms*           |   [Docker], [Kubernetes], [Nginx], [Envoy], [Linux Server]                                                     |
+| :computer: *Platforms*           |   [Docker], [Kubernetes]                                                                                       |
 | :floppy_disk: *Databases*        |   [PostgreSQL], [MongoDB], [Elasticsearch], [Redis], [etcd], [ArangoDB]                                        |
 | :mag_right: *Monitoring*         |   [Graphana], [Prometheus], [Kibana], [Logstash], [OpenTracing], [Jaeger]                                      |
-| :lock: *Secutiry*                |   [ModSecurity], [JWT], [Falco], [Sysdig], [OPA], [Notary], [Harbor], [Node Security], [SafetyDB]              |
+| :lock: *Secutiry*                |   [ModSecurity], [JWT], [Falco], [Sysdig], [OPA], [Node Security], [SafetyDB], [GoSec]                         |
 | :email: *Pubs/Subs*              |   [RabbitMQ], [MQTT], [NATS], [Kafka]                                                                          |
 | :vertical_traffic_light: *CI/CD* |   [Github Actions], [Gitlab CI], [JenkinsX]                                                                    |
 
@@ -122,6 +122,7 @@ Check out my [GitLab](https://gitlab.com/miguelgrubin) and [Linkedn](https://www
 [OPA]: https://www.openpolicyagent.org/
 [Notary]: https://docs.docker.com/notary/
 [Harbor]: https://goharbor.io/
+[GoSec]: https://github.com/securego/gosec
 [NATS]: https://nats.io/
 [Kafka]: https://kafka.apache.org/
 [JenkinsX]: https://jenkins-x.io/
